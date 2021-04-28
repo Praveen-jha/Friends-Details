@@ -1,0 +1,77 @@
+body {
+  background-color: yellow;
+  font-family: "Ubuntu", sans-serif;
+}
+img {
+  width: 250px;
+  float: right;
+  border: 1px dotted black;
+  margin: 0px 100px 100px 30px;
+  border: dotted 5px red;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+marquee {
+  background-color: chartreuse;
+  color: blue;
+  margin: 30px;
+}
+.bord {
+  border: dotted 3px red;
+  margin-right: 70%;
+  margin-left: 20px;
+  padding-left: 10px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+.bords {
+  border: dotted 3px red;
+  margin-top: 80px;
+  margin-right: 60%;
+  margin-left: 50px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+p {
+  color: blue;
+}
+li {
+  color: blue;
+}
+h3 {
+  color:black;
+  background-color: chartreuse;
+  margin-bottom: 0px;
+  margin-top: 3px;
+  text-align: center;
+}
+#raj{
+    width: 250px;
+    height: 350px
+}
+#mayank{
+  width: 250px;
+    height: 350px
+}
+.det{
+  border: 3px dotted red;
+    margin-left: 32%;
+    margin-right: 40%;
+    margin-top: -289px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+.deta{
+  width: 100%;
+}
+td{
+  color: blue;
+}
+th{
+  color:blue
+}
+.maimimage{
+  width: 700px;
+  
+}
